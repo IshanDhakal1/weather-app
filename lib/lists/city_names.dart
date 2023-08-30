@@ -1,0 +1,25 @@
+class CityNames{
+  static List<String> cities = [
+    "new york",
+    "los angeles",
+    "london",
+    "paris",
+    "tokyo",
+    "beijing",
+    "sydney",
+    "mumbai",
+    "cairo",
+    "moscow",
+    "sao paulo",
+    "toronto",
+    "istanbul",
+    "berlin",
+    "dubai",
+    "rome",
+    "seoul",
+    "rio de janeiro",
+    "bangkok",
+    "amsterdam",
+    "kathmandu",
+  ];
+}
